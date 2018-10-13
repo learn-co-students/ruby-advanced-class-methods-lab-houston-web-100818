@@ -66,7 +66,4 @@ class Song
   def self.destroy_all
     @@all = []
   end
-
 end
-
-#Song.new_by_name("Blank Space")
